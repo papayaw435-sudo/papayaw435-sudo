@@ -32,4 +32,4 @@ I'm always open to discussing cloud architecture, sharing resources, and connect
 
 * 🔗 **linkedin.com/in/joseph-tumfuo**
 * 📧 **papayaw435@gmail.com**
-* __twitter__ **jvelar007** 
+* __twitter__ *@jvelar007* 
